@@ -26,9 +26,19 @@
     }
 .heading-callig {
   font-family: 'ChandiaDecorative', Georgia, serif;
-  font-size: 40px;
+  font-size: 65px;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
-
+.subtext {
+  font-family: Georgia, serif;
+  font-size: 35px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
 
   .navbar-container {
   display: flex;
