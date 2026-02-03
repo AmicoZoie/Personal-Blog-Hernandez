@@ -15,7 +15,15 @@
       padding: 20px;
       font-family: Arial, sans-serif;
     }
-
+.others {
+      background-image: url("bg2.jpg"); 
+      background-repeat: no-repeat; 
+      background-position: center; 
+      background-size: cover; 
+      margin: 0;       
+      padding: 20px;
+      font-family: Arial, sans-serif;
+    }
 .heading-callig {
   font-family: 'ChandiaDecorative', Georgia, serif;
   font-size: 40px;
