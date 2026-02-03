@@ -47,6 +47,13 @@
   color: #381708;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
+#name {
+  font-family: 'ChandiaDecorative', Georgia, serif;
+  font-size: 55px;
+  text-align: center;
+  color: #381708;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
 #subtext {
   font-family: Georgia, serif;
   font-size: 30px;
@@ -64,6 +71,11 @@
   font-weight: bold;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 } 
+
+p, h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, serif;
+  color: #381708
+}
 
   .navbar-container {
   display: flex;
