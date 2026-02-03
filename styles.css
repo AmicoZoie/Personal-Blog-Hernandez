@@ -16,8 +16,9 @@
       font-family: Arial, sans-serif;
     }
 
-h1 {
+heading-callig {
       font-family: 'Chandia', 
+      font-size: 40px;
     }
   .navbar-container {
   display: flex;
