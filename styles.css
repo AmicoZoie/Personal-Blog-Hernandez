@@ -40,7 +40,7 @@
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
-.subtext {
+#subtext {
   font-family: Georgia, serif;
   font-size: 45px;
   text-align: center;
