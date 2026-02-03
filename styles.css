@@ -17,9 +17,10 @@
     }
 
 .heading-callig {
-      font-family: 'ChandiaDecorative', 
-      font-size: 40px;
-    }
+  font-family: 'ChandiaDecorative', Georgia, serif;
+  font-size: 40px;
+}
+
 
   .navbar-container {
   display: flex;
