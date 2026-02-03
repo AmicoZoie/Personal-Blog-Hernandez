@@ -32,7 +32,7 @@
   color: rgba(222, 166, 140. 0.80);
 }
 
-.heading-callig {
+#heading-callig {
   font-family: 'ChandiaDecorative', Georgia, serif;
   font-size: 120px;
   text-align: center;
@@ -40,6 +40,13 @@
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
+.regular-callig {
+  font-family: 'ChandiaDecorative', Georgia, serif;
+  font-size: 95px;
+  text-align: center;
+  color: #381708;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
 #subtext {
   font-family: Georgia, serif;
   font-size: 30px;
