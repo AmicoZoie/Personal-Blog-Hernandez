@@ -1,1 +1,9 @@
-
+#home {
+      background-image: url("bg.png"); 
+      background-repeat: no-repeat; 
+      background-position: center; 
+      background-size: cover; 
+      margin: 0;       
+      padding: 20px;
+      font-family: Arial, sans-serif;
+    }
