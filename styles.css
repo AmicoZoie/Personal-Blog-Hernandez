@@ -31,16 +31,18 @@
   text-align: center;
   color: rgba(222, 166, 140. 0.80);
 }
+
 .heading-callig {
   font-family: 'ChandiaDecorative', Georgia, serif;
-  font-size: 65px;
+  font-size: 95px;
   text-align: center;
   color: white;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
+
 .subtext {
   font-family: Georgia, serif;
-  font-size: 35px;
+  font-size: 45px;
   text-align: center;
   color: white;
   font-weight: bold;
