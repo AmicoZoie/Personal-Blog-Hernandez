@@ -336,3 +336,20 @@ p, h1, h2, h3, h4, h5, h6 {
   max-width: 90%;
   margin: 40px auto;
 }
+
+.postimage {
+      display: flex;
+      justify-content: center; 
+      gap: 10px;               
+      margin: 20px 0;          
+      flex-wrap: wrap;         
+    }
+
+    .postimage img {
+      width: 100px !important; 
+      height: 100px !important;
+      object-fit: cover; 
+      border-radius: 5px;
+      border: 1px solid #d4af37;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+    }
