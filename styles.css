@@ -15,7 +15,7 @@
       padding: 20px;
       font-family: Arial, sans-serif;
     }
-.others { /*forda pages na di home*/
+.others { 
       background-image: url("bg2.jpg"); 
       background-repeat: no-repeat; 
       background-position: center; 
@@ -138,7 +138,7 @@ p, h1, h2, h3, h4, h5, h6 {
   border-radius: 25px;
   padding: 35px 45px;
   width: 65%;
-  margin: auto;
+  margin: 40px auto;
   font-family: Georgia, serif;
   font-size: 17px;
   line-height: 1.8;
@@ -181,7 +181,7 @@ p, h1, h2, h3, h4, h5, h6 {
     .ako {
       background-color: #F0C4CB;
       max-width: 75%;
-      margin: auto;
+      margin: 40px auto;
       padding: 25px;
       border-radius: 25px;
       border: 3px solid #C87D87;
