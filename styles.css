@@ -346,8 +346,8 @@ p, h1, h2, h3, h4, h5, h6 {
     }
 
     .postimage img {
-      width: 100px !important; 
-      height: 100px !important;
+      width: 200px !important; 
+      height: 200px !important;
       object-fit: cover; 
       border-radius: 5px;
       border: 1px solid #d4af37;
