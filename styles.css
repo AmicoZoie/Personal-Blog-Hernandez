@@ -244,3 +244,23 @@ p, h1, h2, h3, h4, h5, h6 {
   font-family: Georgia, serif;
   font-size: 24px;
 }
+
+#aboutname {
+  color: #C87D87; 
+  font-weight: bold;
+}
+
+#program {
+  color: #726A7E; 
+  font-weight: bold;
+}
+
+#theme {
+  color: #6B7556; 
+  font-style: italic;
+}
+
+#language {
+  color: #F0C4CB; 
+  font-weight: bold;
+}
