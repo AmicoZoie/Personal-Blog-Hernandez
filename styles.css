@@ -165,7 +165,7 @@ p, h1, h2, h3, h4, h5, h6 {
 }
     .ako {
       background-color: #F0C4CB;
-      max-width: 800px;
+      max-width: 75%;
       margin: auto;
       padding: 25px;
       border-radius: 25px;
@@ -187,7 +187,7 @@ p, h1, h2, h3, h4, h5, h6 {
   background-color: #FBEAD6; 
   border-radius: 25px;
   padding: 25px 30px;
-  max-width: 800px;
+  max-width: 75%;
   margin: 35px auto;
   box-shadow: 0px 10px 20px rgba(114, 106, 126, 0.25);
   border: 2px solid #E5BCA9; 
