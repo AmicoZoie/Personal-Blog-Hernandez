@@ -275,3 +275,39 @@ p, h1, h2, h3, h4, h5, h6 {
 .emphasize {
   color: #1a0902; 
   font-weight: bold;
+
+.post-links {
+  background: rgba(251, 234, 214, 0.85);
+  padding: 22px;
+  width: 240px;
+  border-radius: 22px;
+  box-shadow: 0px 10px 20px rgba(114, 106, 126, 0.3);
+  border: 2px solid #E5BCA9;
+  text-align: center;
+  height: fit-content;
+}
+
+.links-title {
+  font-family: Georgia, serif;
+  color: #726A7E;
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+
+.post-link {
+  display: block;
+  text-decoration: none;
+  background: rgba(229, 188, 169, 0.6); 
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 14px;
+  color: #6B7556;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.post-link:hover {
+  background: #F0C4CB; 
+  color: #726A7E;
+  transform: scale(1.07);
+}
