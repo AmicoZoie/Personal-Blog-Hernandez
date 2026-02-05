@@ -312,6 +312,7 @@ p, h1, h2, h3, h4, h5, h6 {
 
 .postlink {
   display: block;
+  font-family: Georgia, serif;
   text-decoration: none;
   background: rgba(229, 188, 169, 0.6); 
   margin: 10px 0;
@@ -423,7 +424,6 @@ p, h1, h2, h3, h4, h5, h6 {
 .nav-link:link {
   color: #6B7556;
 }
-.nav-link:active {
-  background-color: #C87D87;
-  color: #FBEAD6;
+.nav-link:visited {
+  color: #6c75a8;
 }
